@@ -45,7 +45,7 @@ A full-stack negotiation marketplace built around real transaction workflows.
 - Designed transaction-driven backend logic with a focus on data consistency
 - Tested to reliably handle 100+ concurrent transactions
 
-🔗 [Repository]
+🔗 [https://github.com/aneesh-afk/Bargain_bazaar]
 
 ### 🎯 Weapon Detection System
 A computer vision pipeline for real-time weapon detection across multiple camera feeds.
@@ -54,7 +54,7 @@ A computer vision pipeline for real-time weapon detection across multiple camera
 - Implemented multi-camera detection support
 - Patent-pending project
 
-🔗 [Repository]
+🔗 [https://github.com/nachiketkale24-png/Weapon-Detection]
 
 ## 💼 Experience
 
@@ -71,19 +71,19 @@ A computer vision pipeline for real-time weapon detection across multiple camera
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<your-github-username>&show_icons=true&theme=default&count_private=true" alt="Aneesh's GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<your-github-username>&layout=compact&theme=default" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=<aneesh-afk>&show_icons=true&theme=default&count_private=true" alt="Aneesh's GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<aneesh-afk>&layout=compact&theme=default" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=<your-github-username>&theme=default" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=<aneesh-afk>&theme=default" alt="GitHub Streak" />
 </p>
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([LINK])
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)]([LINK])
-[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)]([LINK])
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/aneesh-suvarna-8931b7336/])
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)]([https://leetcode.com/u/aneesh-afk/])
+[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)]([https://www.codechef.com/users/aneesh_06])
 
 ---
 
